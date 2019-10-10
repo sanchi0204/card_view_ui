@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="savings">Savings</string>
+    <string name="home">Move in to your own house in</string>
+    <string name="days">139 days</string>
+    <string name="today">Today</string>
+    <string name="sofa">We have pre approved a new
+mortgage for you.Check it out.</string>
+    <string name="mortgage">New mortgage available</string>
+    <string name="party">Wow, what a party you
+ had last night</string>
+    <string name="hangover">4 bars in 6 hours! We have heard
+bananas &amp; pretzels are great for     hangovers.</string>
+    <string name="suggest">Help us make better suggestions</string>
+    <string name="hours">How many hours do</string>
+    <string name="hours2">you watch</string>
+    <string name="weekly"> weekly?</string>
+    <string name="time1">0hr</string>
+    <string name="time2">1-5hr</string>
+    <string name="time3">5+hr</string>
+    <string name="b_day">Your birthday is in 10 days!</string>
+    <string name="friends">Let your family and friends help you
+ get your house sooner</string>
+
+</resources>
