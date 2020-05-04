@@ -1,16 +1,15 @@
 # CardView
 
-This app was made to learn the implementation of card view 
+This app was made to learn the implementation of card view and different font families in an application. 
 
 ## Features
 
-* The application supports Android 5.0 Lollipop (API level 22) and above.
-* The app allows user to sign-in/sign-up in the app using Firebase Authentication and keeps signed-in henceforth using shared preferences unless the user opts to log-out.
-* Via the app a user can see the menu planned for the entire day.
-* This helps the user to choose their meals for the day in the meals section.
-* User choices are reflected upon the dashboard.
-* The app allows user to give feedback and suggestions regarding the hospitality services.
-* All the information is stored in the database via the Firebase Database and can be reflected in the Admin app(SAAHAR).
+* The application supports Android 5.0 Lollipop (API level 21) and above.
+* Implements various features of cardview such as:
+    * Card Elevation
+    * Card Corer Radius
+    * Card Background Colour
+* Uses different font families to add details.
 
 ## Screenshots
 
